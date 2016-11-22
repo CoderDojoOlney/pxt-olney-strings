@@ -1,6 +1,6 @@
 {
     "name": "olney-strings",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Provides some simple string blocks for the Olney CoderDojo club.",
     "license": "MIT",
     "dependencies": {
