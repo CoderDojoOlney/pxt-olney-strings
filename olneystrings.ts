@@ -7,7 +7,7 @@ namespace olneystrings {
     //% block="get length of  %text"
     //% weight=10 
     //% blockGap=8
-    export function LengthOf(text: string) : number {
+    export function lengthOf(text: string): number {
         return text.length;        
     }   
 
