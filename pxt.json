@@ -1,15 +1,14 @@
 {
     "name": "olney-strings",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Provides some simple string blocks for the Olney CoderDojo club.",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "olneystrings.ts"
     ],
     "testFiles": [
         "tests.ts"
